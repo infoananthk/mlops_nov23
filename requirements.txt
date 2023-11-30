@@ -1,3 +1,7 @@
+#local pkg install
+
+-e .
+
 dvc
 dvc[gdrive]
 scikit-learn
